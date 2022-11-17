@@ -311,9 +311,13 @@ From the plot, we can see that:
 
 1. When the effect size is less than 4, the sample average of μ̂ when the null is rejected is very different from (and always larger than) the true value of μ.
 
-2. When the effect size is larger than 4, the sample average of μ̂ when the null is rejected is approximately equal to the true value of mu. That’s because as the power is increasing.
+2. When the effect size is larger than 4, the sample average of μ̂ when the null is rejected is approximately equal to the true value of μ. That’s because as the power is increasing.
 
-Conclusion: Given the small sample size and low power, and given that the null is rejected, we can see the average is very different from the true mean. It indicates the publication bias. We should be careful of this situation. When the power is low, the sample size is small, the results that the null is rejected may be far away from the truth.
+Conclusion: 
+
+Given the small sample size and low power, and given that the null is rejected, we can see the average is very different from the true mean. 
+
+When the power is low, the sample size is small, the results that the null is rejected may be far away from the truth.
 
 
 
